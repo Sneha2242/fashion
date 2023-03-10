@@ -10,5 +10,5 @@ in the Gallery we shown the samples of the designs
 
 #What We Do
 
-in this section we shown what designs we provides to the customers.
+in this section we have shown what designs we provide to the customers.
 ![fashin 3](https://user-images.githubusercontent.com/112195433/194497637-8d41efca-ab02-4d08-9616-164fe5b4dfe1.png)
